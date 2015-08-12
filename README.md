@@ -3,7 +3,7 @@ Easy to use single linked list data structure. Fifo and stack usage, as well as 
 
 
 Usage example:
-```
+```c
 // allocates an integer
 int* alloc_int(int i)
 {
